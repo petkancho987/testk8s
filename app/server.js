@@ -4,7 +4,7 @@ const app = express();
 
 app.get('/', (req, res) => {
   res.json({
-    app: 'github-k8s-demo',
+    app: 'alabala',
     status: 'ok',
     timestamp: new Date()
   });

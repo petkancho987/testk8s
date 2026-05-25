@@ -10,7 +10,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/YOUR_GITHUB_USERNAME/github-demo.git
+    repoURL: https://github.com/petkancho987/github-demo.git
     targetRevision: main
     path: k8s
 

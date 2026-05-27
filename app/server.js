@@ -4,7 +4,7 @@ const app = express();
 
 app.get('/', (req, res) => {
   res.json({
-    app: 'laptop-last',
+    app: 'test',
     status: 'ok',
     timestamp: new Date()
   });

@@ -4,7 +4,7 @@ const app = express();
 
 app.get('/', (req, res) => {
   res.json({
-    app: 'test',
+    app: 'TEST-FIX',
     status: 'ok',
     timestamp: new Date()
   });

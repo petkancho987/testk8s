@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: github-demo
-          image: ghcr.io/petkancho987/testk8s:3d5738e
+          image: ghcr.io/petkancho987/testk8s:437159c
 
           ports:
             - containerPort: 3000

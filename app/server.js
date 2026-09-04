@@ -4,8 +4,8 @@ const app = express();
 
 app.get('/', (req, res) => {
   res.json({
-    app: 'test',
-    status: 'test,
+    app: 'tester',
+    status: 'tester,
     timestamp: new Date()
   });
 });
